@@ -1,0 +1,14 @@
+{
+  "name": "hw33",
+  "version": "1.0.0",
+  "description": "blockchain hw 3.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dmitrin_platon",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.8.1"
+  }
+}
